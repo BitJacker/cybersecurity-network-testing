@@ -68,6 +68,10 @@ source venv/bin/activate
 
 pip install -r requirements.txt
 
+cd core
+
+python3 menu.py
+
 Usage
 
 Start the main interface with: python3 core/menu.py
