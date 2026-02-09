@@ -34,7 +34,7 @@ and stability rather than exploitation.
 ---
 
 ## Project Structure
-
+```
 cybersecurity-network-testing/
 ├── core/ # Menu, launcher, shared utilities
 ├── network/ # Network-level tests (MTU, fragmentation, scans)
@@ -44,7 +44,7 @@ cybersecurity-network-testing/
 ├── reports/ # Report generation
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
